@@ -1,5 +1,5 @@
 # ConsultationPlatform
-A simulation of online digital art consultation platform in C++
+A simulation of an online digital art consultation platform in C++
 
 
                                                                 ABOUT US
