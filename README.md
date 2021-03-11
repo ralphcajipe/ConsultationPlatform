@@ -2,7 +2,7 @@
 A simulation of an online digital art consultation platform in C++
 
 
-                                                                ABOUT US
+                                                                ABOUT
 
 Traditional consulting firms specializing in digital art are mostly located in urban areas with a good reputation for startup companies.
 While it is rampant, this creates barrier for people living in towns or country sides to reach them for consultation. That is why we
@@ -13,12 +13,12 @@ DigiArte is an online digital art consultation platform. The platform is to get 
 from professional and licensed digital artists. You can get art documents, easily drafted  for you using video or voice or chat system of your choice
 to see what's best for your discussion.
 
-                                                                THE DEVELOPERS
+                                                            THE DEVELOPERS
 
                                                 Ralph Cajipe    - Team Lead and Quality Assurance
 
                                                 Allyster Samson - Programmer and Analysis
 
-                                                Kyle Garcia     - Design and Tester
+                                                Kyle Garcia     - Design and Test
 
                                                 Aries Medina    - Design and Documentation
