@@ -1,4 +1,4 @@
-# ConsultationPlatform
+# DigiArte
 A simulation of an online digital art consultation platform in C++
 
 ABOUT
